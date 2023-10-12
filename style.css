@@ -11,7 +11,7 @@ section{
 
 .text-primary{
     font-weight: 700;
-    font-size: clamp(32px, 4vw, 48px);
+    font-size: clamp(22px, 4vw, 36px);
 }
 
 span{
@@ -20,7 +20,7 @@ span{
 
 .text-secundary{
     font-weight: 400;
-    font-size: clamp(22px, 4vw, 36px);
+    font-size: clamp(16px, 4vw, 20px);
 }
 
 .navbar {
