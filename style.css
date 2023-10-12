@@ -179,7 +179,7 @@ span{
 	position: relative;
 	background: rgba(255, 255, 255, 0.05);
 	box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
-	border-radius: 15px;
+	border-radius: 10px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -187,7 +187,7 @@ span{
 }
 
 .carrusel{
-    border-radius: 30px;
+    border-radius: 10px;
     background: #e0e0e0;
     box-shadow: 15px 15px 30px #bebebe,
     -15px -15px 30px #ffffff;
@@ -228,7 +228,7 @@ span{
     background: #fff;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
     min-height: 450px;
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .section-contact {
